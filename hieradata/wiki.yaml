@@ -3,7 +3,7 @@ classes:
   - mediawiki
   - linux
 mediawiki::wikisitename: wiki-staging
-mediawiki::wikimetanamespace: Wiki
+mediawiki::wikimetanamespace: Wiki-staging
 mediawiki::wikiserver: http://172.31.0.202
 mediawiki::wikidbname: wiki-db-staging
 testrepo::environment: staging
