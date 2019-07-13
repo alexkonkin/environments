@@ -1,0 +1,3 @@
+node 'wiki' {
+  include testrepo
+}
