@@ -1,0 +1,9 @@
+---
+classes:
+  - mediawiki
+  - linux
+mediawiki::wikisitename: wiki-production
+mediawiki::wikimetanamespace: Wiki
+mediawiki::wikiserver: http://172.31.0.202
+mediawiki::wikidbname: wiki-db-staging
+testrepo::environment: staging
